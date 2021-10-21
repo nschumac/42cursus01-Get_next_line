@@ -12,7 +12,7 @@ The goal of this project is to the function get_next_line which reads line by li
 ## Subject:
 <object data="https://github.com/nschumac/42cursus01-Get_next_line/blob/main/subject/get_next_line-en.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/nschumac/42cursus01-Get_next_line/blob/main/subject/get_next_line-en.pdf">
-        <p><a href="https://github.com/nschumac/42cursus01-Get_next_line/blob/main/subject/get_next_line-en.pdf">libft subject</a></p>
+        <p><a href="https://github.com/nschumac/42cursus01-Get_next_line/blob/main/subject/get_next_line-en.pdf">get_next_line subject</a></p>
     </embed>
 </object>
 
